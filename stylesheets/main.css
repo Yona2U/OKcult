@@ -10,12 +10,20 @@ body, html {
     overflow: hidden;
     -webkit-tap-highlight-color: transparent;
 }
-.logo2 img {
-    left: 24px; 
-    top: 10px; 
-    width: 261px; 
-    height: 70px; 
+.logo1 img {
+    left: 24px;
+    top: 10px;
+    width: 261px;
+    height: 70px;
     z-index: 110
+}
+
+.logo2 img {
+    left: 0px;
+    top: 0px;
+    width: 35px;
+    height: 70px;
+    z-index: 109;
 }
 
 .container-about {font-family: Oswald;
