@@ -10,6 +10,12 @@ body, html {
     overflow: hidden;
     -webkit-tap-highlight-color: transparent;
 }
+.logo {
+    left: 24px; 
+    top: 10px; 
+    width: 261px; 
+    height: 70px; 
+    z-index: 110
 
 .container-about {font-family: Oswald;
     font-style: normal;
