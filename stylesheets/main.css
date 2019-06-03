@@ -1,0 +1,33 @@
+body, input {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility!important;
+}
+
+body, html {
+    height: 100%;
+    min-width: 1024px;
+    overflow: hidden;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.container-about {font-family: Oswald;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 46px;
+    letter-spacing: -1.8px;
+    line-height: 65px;
+    text-align: start;
+    color: rgb(232,0,0);
+}
+
+.about {
+font-family: custom_15066;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  text-align: start;
+  color: rgb(255,255,255);
+}
